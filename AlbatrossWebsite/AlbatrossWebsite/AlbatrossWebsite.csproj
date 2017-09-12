@@ -107,6 +107,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="BootstrapTutorial2.aspx" />
+    <Content Include="BootstrapTutorial1.aspx" />
+    <Content Include="BootstrapTutorial3.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -137,6 +140,27 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BootstrapTutorial2.aspx.cs">
+      <DependentUpon>BootstrapTutorial2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BootstrapTutorial2.aspx.designer.cs">
+      <DependentUpon>BootstrapTutorial2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BootstrapTutorial1.aspx.cs">
+      <DependentUpon>BootstrapTutorial1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BootstrapTutorial1.aspx.designer.cs">
+      <DependentUpon>BootstrapTutorial1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BootstrapTutorial3.aspx.cs">
+      <DependentUpon>BootstrapTutorial3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BootstrapTutorial3.aspx.designer.cs">
+      <DependentUpon>BootstrapTutorial3.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
