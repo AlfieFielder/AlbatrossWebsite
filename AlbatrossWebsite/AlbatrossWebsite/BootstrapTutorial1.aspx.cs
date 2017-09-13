@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace AlbatrossWebsite.bin
+namespace AlbatrossWebsite
 {
     public partial class BootstrapTutorial1 : System.Web.UI.Page
     {
