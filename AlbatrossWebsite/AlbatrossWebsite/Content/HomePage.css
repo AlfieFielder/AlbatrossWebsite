@@ -1,0 +1,9 @@
+﻿.body {
+    background-color: black;
+}
+
+#Home_Jumbotron_Title {
+  text-align: center;
+  background-color: transparent;
+  color: #00ffff;
+}
