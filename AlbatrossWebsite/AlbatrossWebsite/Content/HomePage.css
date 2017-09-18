@@ -1,9 +1,9 @@
-﻿.body {
-    background-color: black;
+﻿#Home_Jumbotron_Title {
+  text-align: center;
+  background-color: #2d2d30;
+  color: #ffffff;
 }
 
-#Home_Jumbotron_Title {
-  text-align: center;
-  background-color: transparent;
-  color: #00ffff;
+table, th, td {
+    border: 1px solid black;
 }

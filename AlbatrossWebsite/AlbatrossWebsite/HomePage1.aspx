@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="HomePage.aspx.cs" Inherits="AlbatrossWebsite.HomePage" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="HomePage1.aspx.cs" Inherits="AlbatrossWebsite.HomePage" %>
 
 <!DOCTYPE html>
 

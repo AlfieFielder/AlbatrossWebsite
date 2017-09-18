@@ -106,7 +106,8 @@
     <Content Include="Content\Maintenance_Calendar.css" />
     <Content Include="Content\Nav_top.css" />
     <Content Include="elements\nav_top.html" />
-    <Content Include="HomePage.aspx" />
+    <Content Include="HomePage1.aspx" />
+    <Content Include="HomePage.html" />
     <Content Include="images\trump.jpg" />
     <Content Include="MaintenancePage.html" />
     <Content Include="packages.config" />
@@ -156,6 +157,7 @@
     <Content Include="scripts\Nav_top.js" />
     <Content Include="scripts\r.js" />
     <Content Include="scripts\require.js" />
+    <Content Include="AlbatrossGroup-Website.html" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -182,12 +184,12 @@
     <Compile Include="BootstrapTutorial3.aspx.designer.cs">
       <DependentUpon>BootstrapTutorial3.aspx</DependentUpon>
     </Compile>
-    <Compile Include="HomePage.aspx.cs">
-      <DependentUpon>HomePage.aspx</DependentUpon>
+    <Compile Include="HomePage1.aspx.cs">
+      <DependentUpon>HomePage1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="HomePage.aspx.designer.cs">
-      <DependentUpon>HomePage.aspx</DependentUpon>
+    <Compile Include="HomePage1.aspx.designer.cs">
+      <DependentUpon>HomePage1.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
